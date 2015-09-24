@@ -11,4 +11,10 @@ class StaticPagesController < ApplicationController
   def contact
   end
   
+  def tech
+  end
+
+  def exp
+  end
+  
 end
